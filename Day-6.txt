@@ -1,0 +1,27 @@
+Day-6
+
+>> media queiry:used for responsive site.
+@media screen and (max-width: 500px) {
+    .demo{
+        background-color: orangered;
+    }
+    [class*='col-']{
+        width: 100%;
+    }
+}
+
+
+
+>>What is Bootstrap?: It is a frame-work of CSS.
+>> What is frame-work?: it is a structure.
+>>visit https://getbootstrap.com
+>> bootstrap 4 includes five classes > col(extra small),sm, md,lg,xl.
+>> Bootstrap supports button in three html elements:
+<a href=""></a>
+<input type="button" value="A Button"/>
+<input type="submit" value="A Button"/>
+<button type="button">A Button</button>
+<button type="submit">A Button</button>
+
+>>bootstrap 4 has 10 types of button.
+                
